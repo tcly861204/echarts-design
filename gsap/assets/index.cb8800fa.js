@@ -1,0 +1,1 @@
+import{r as t,a as o}from"./index.06ac9630.js";const r=()=>{const e=t.exports.useRef(null);return t.exports.useEffect(()=>{console.log(e.current)},[]),o("section",{ref:e,style:{width:"100vw",height:"100vh"}})};export{r as default};

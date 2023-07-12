@@ -1,0 +1,1 @@
+import{u as a,G as t}from"./c7121ba6.js";import{j as o,c as s,i as r}from"./587f87d3.js";const e="_container_1j037_1",i=()=>{const{data:i}=a("example");return o("div",{className:`${e} pt10 scrollbar`,children:o(t,{title:"示例",data:i.reverse(),onClick:a=>{s(r?window.location.origin+a:"http://localhost:8082")}})})};export{i as default};

@@ -1,0 +1,1 @@
+import{T as e}from"./effe6083.js";import"./b07c3693.js";const o=window.Vue.defineComponent,n=window.Vue.createVNode,t=window.Vue.createElementVNode,d=window.Vue.openBlock,i=window.Vue.createElementBlock,s={class:"p20"},c={class:"mb20"},w=o({__name:"index",setup:o=>(o,w)=>(d(),i("section",s,[t("div",c,[n(e)])]))});export{w as default};
