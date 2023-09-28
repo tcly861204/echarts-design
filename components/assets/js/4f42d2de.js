@@ -1,0 +1,1 @@
+import{T as t}from"./4988be47.js";import{j as o}from"./c7c14c1e.js";const e=()=>o("section",{style:{width:600,height:320,position:"absolute",top:0,left:0,right:0,bottom:0,margin:"auto"},children:o(t,{})});export{e as default};
